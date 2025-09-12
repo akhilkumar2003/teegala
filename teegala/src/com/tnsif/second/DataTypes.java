@@ -1,7 +1,6 @@
 package com.tnsif.second;
 
 public class DataTypes {
-
 	public static void main(String[] args) {
 		byte b=30;
 		short s=100;
@@ -20,3 +19,4 @@ public class DataTypes {
 	}
 
 }
+
