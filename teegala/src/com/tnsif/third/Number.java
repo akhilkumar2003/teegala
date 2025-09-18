@@ -2,7 +2,7 @@ package com.tnsif.third;
 
 public class Number {
     public static void main(String[] args) {
-        int a = 10; // change the value here
+        int a = 10; 
         if (a % 2 == 0) {
             System.out.println("number is even: " + a);
         } else {
